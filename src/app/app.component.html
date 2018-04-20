@@ -1,0 +1,14 @@
+<div >
+  <canvas id="canvas">{{ chart }}</canvas>
+</div>
+<div>
+<form #f="ngForm" class="form-signin" (ngSubmit)="onLaplaceChartCreate(f)">
+    <input type="text" id="inputTarget" class="form-control" name="target" placeholder="Target" required ngModel>
+    <input type="text" id="inputOperator" name="operator" class="form-control" placeholder="Operator" required ngModel>
+    <input type="text" id="inputValue" name="value" class="form-control" placeholder="Value" required ngModel>
+    <div class="form-group">
+      <button id="button" class="btn btn-primary btn-block  buttonValidate" type="submit" >Envoyer</button>
+    </div>
+  </form>
+</div>
+
