@@ -26,5 +26,5 @@ Cette application client permet d'afficher des histogrammes à partir de requêt
   ```sh
   $ng serve 
   ``` 
- pour un serveur de dev. Accédez à  [http://localhost:4200/ ](http://localhost:4200/)sur votre navigateur. L'application sera automatiquement chargée
+ pour un serveur de dev. Accédez à  [http://localhost:4200/ ](http://localhost:4200/)sur votre navigateur. L'application sera automatiquement chargée.
  
