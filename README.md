@@ -20,7 +20,7 @@ Cette application client permet d'afficher des histogrammes à partir de requêt
  $ cd Sbd-Client/
  $ npm install
  ```
- - Avant de lancer le projet assurez vous de bien avoir lancé votre API java
+ - Avant de lancer le projet assurez vous de bien avoir lancé votre API
  - Exécutez ng serve 
  
   ```sh
