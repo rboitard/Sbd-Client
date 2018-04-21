@@ -5,7 +5,7 @@ Cette application client permet d'afficher des histogrammes à partir de requêt
 # Installation 
 
 ## Prérequis
- -  [Node.js](https://nodejs.org), with NPM
+ -  [Node.js](https://nodejs.org), avec NPM
  - [Angular CLI](https://cli.angular.io/)
  
  ```sh
